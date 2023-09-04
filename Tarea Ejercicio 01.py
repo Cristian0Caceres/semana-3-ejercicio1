@@ -13,7 +13,6 @@ class circulo:
         self.radio = nuevo_radio
 circulotest=circulo(6)
 ciclo=True
-Ciclos=0
 circulotest=circulo(6)
 while ciclo==True:
     circulotest.calcula_area()
